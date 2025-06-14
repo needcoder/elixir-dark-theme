@@ -1,9 +1,24 @@
 {
-	"name": "dark+(elixir)",
+	"name": "Elixir Dark",
 	"type": "dark",
 	"include": "./dark_plus.json",
 	"colors": {
-		"editorBracketMatch.background": "#249024"	
+		"editorBracketMatch.background": "#249024",
+		"sideBarSectionHeader.background": "#252526",
+
+		"panel.border": "#f974f2",
+		"panel.background": "#252526",
+
+		"terminal.border": "#80808059",
+		"terminal.background": "#252526",
+
+		"tab.activeBorder": "#b036ea",
+		"tab.hoverBorder": "#8739ac",
+
+		"statusBar.background": "#252526",
+		"statusBar.foreground": "#ffffff80",
+		"statusBarItem.remoteBackground": "#3a0d4c",
+		"statusBarItem.remoteForeground": "#ffffff80"
 	},
 	"tokenColors": [
 		{

@@ -1,6 +1,6 @@
-# Dark+(Elixir)
+# Elixir Dark Theme
 
-Elixir customized syntax based on a default dark+
+Elixir theme based on a default dark+
 
 **Note:** For non-elixir files, this syntax should look the same as dark+
 ## Elixir files

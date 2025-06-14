@@ -1,9 +1,10 @@
 {
-    "name": "dark-plus-elixir",
-    "displayName": "Dark+ Elixir",
-    "description": "Elixir customized syntax based on a default dark+",
-    "version": "0.1.1",
-    "publisher": "kkalita",
+    "name": "theme-elixir-dark",
+    "displayName": "Elixir Dark",
+    "description": "Elixir theme based on a default dark+",
+    "version": "1.0.0",
+    "publisher": "needcoder",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.14.0"
     },
@@ -12,24 +13,22 @@
     ],
     "keywords": [
         "theme",
-        "dark plus",
-        "visual studio",
-        "elixir"
+        "elixir",
+        "elixir dark",
+        "elixir theme",
+        "elixir dark theme",
+        "dark+ elixir"
     ],
-    "bugs": {
-        "url": "https://github.com/konradkalita/dark-plus-elixir/issues"
-    },
-    "homepage": "https://github.com/konradkalita/dark-plus-elixir",
     "repository": {
         "type": "git",
-        "url": "https://github.com/konradkalita/dark-plus-elixir"
+        "url": "https://github.com/needcoder/elixir-dark-theme"
     },
     "contributes": {
         "themes": [
             {
-                "label": "dark+(elixir)",
+                "label": "Elixir Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/dark+(elixir)-color-theme.json"
+                "path": "./themes/elixir-dark-theme.json"
             }
         ]
     }
