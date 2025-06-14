@@ -2,7 +2,7 @@
     "name": "theme-elixir-dark",
     "displayName": "Elixir Dark",
     "description": "Elixir theme based on a default dark+",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "needcoder",
     "icon": "icon.png",
     "engines": {

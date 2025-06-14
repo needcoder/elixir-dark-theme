@@ -13,6 +13,7 @@
 		"terminal.border": "#80808059",
 		"terminal.background": "#252526",
 
+		"tab.activeBackground": "#3c3c3c",
 		"tab.activeBorder": "#b036ea",
 		"tab.hoverBorder": "#8739ac",
 
