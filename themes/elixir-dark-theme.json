@@ -5,6 +5,7 @@
 	"colors": {
 		"editorBracketMatch.background": "#249024",
 		"sideBarSectionHeader.background": "#252526",
+		"sideBarSectionHeader.border": "#2d2d2d",
 
 		"panel.border": "#f974f2",
 		"panel.background": "#252526",
